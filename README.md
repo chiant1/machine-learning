@@ -8,3 +8,4 @@ A list of materials:
 - Machine Learning
 - Artificial Intelligence
 
+It's cool this can be done just via github web interface
