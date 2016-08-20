@@ -36,4 +36,7 @@ Buzzwords:
 - University of Toronto. Neural Networks for Machine Learning
 - Standford University. Probabilistic Graphical Models 1: Representation
 - University of California, San Diego. Learning How to Learn
- 
+- Udacity. Deep Learning
+- Udacity. Intro to Artificial Intelligence
+
+
