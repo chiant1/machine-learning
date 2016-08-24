@@ -9,7 +9,8 @@ Buzzwords:
 - Artificial Intelligence
 
 Курсы выполненные:
-- Standford University. Machine Learning
+- Standford University. Machine Learning - 12 июн 2016
+- MIPT. Машинное обучение и анализ данных. Курс 1. Математика и Python для анализа данных - 24 авг 2016
 - JHU. Data Science. Course 1. The Data Scientist’s Toolbox
 - JHU. Data Science. Course 2. R Programming
 - JHU. Data Science. Course 3. Getting and Cleaning Data
@@ -17,7 +18,6 @@ Buzzwords:
 - JHU. Data Science. Course 5. Reproducible Research
 
 Курсы в процессе выполнения:
-- MIPT. Машинное обучение и анализ данных. Курс 1. Математика и Python для анализа данных
 - MIPT. Машинное обучение и анализ данных. Курс 2. Обучение на размеченных данных
 - MIPT. Теория вероятностей для начинающих
 - ВШЭ. Введение в машинное обечение 
